@@ -17,7 +17,7 @@ const Projects = () => {
         "Access control for book owners",
         "Secure REST API with Mongoose validation"
       ],
-      liveUrl: "https://bookmart-demo.vercel.app",
+  liveUrl: "https://book-pulse.netlify.app/home",
       githubUrl: "https://github.com/MERNintaing-bugs/Book-Mart",
       status: "Completed",
       date: "2025"
